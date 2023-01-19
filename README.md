@@ -1,0 +1,1 @@
+# test-int-gration-affinicia-1way
